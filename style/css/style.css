@@ -193,7 +193,7 @@ h6 {
 
 #list li {
     padding-left: 29px;
-    list-style-image: url("/style/images/image13.svg");
+    list-style-image: url("./style/images/image13.svg");
 }
 
 #list {
